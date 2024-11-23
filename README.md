@@ -1,4 +1,4 @@
-# Proyecto - Curriculum vitae
+# CV-WITH-REACT
 
 React-based curriculum vitae
 
